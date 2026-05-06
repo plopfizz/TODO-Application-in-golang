@@ -1,0 +1,31 @@
+{
+  "create_response": {
+    "id": 1,
+    "text": "Finish Go assignment",
+    "due_date": "2026-05-10T00:00:00Z",
+    "completed": false,
+    "created_at": "2026-05-06T09:00:00Z",
+    "updated_at": "2026-05-06T09:00:00Z"
+  },
+  "list_response_default": [
+    {
+      "id": 2,
+      "text": "Buy groceries",
+      "due_date": "2026-05-08T00:00:00Z",
+      "completed": false,
+      "created_at": "2026-05-06T09:05:00Z",
+      "updated_at": "2026-05-06T09:05:00Z"
+    },
+    {
+      "id": 1,
+      "text": "Finish Go assignment",
+      "due_date": "2026-05-10T00:00:00Z",
+      "completed": false,
+      "created_at": "2026-05-06T09:00:00Z",
+      "updated_at": "2026-05-06T09:00:00Z"
+    }
+  ],
+  "validation_error": {
+    "error": "due_date must use YYYY-MM-DD format"
+  }
+}
